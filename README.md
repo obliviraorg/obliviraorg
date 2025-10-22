@@ -79,8 +79,11 @@ Im also very good at writing Guides like my Yuzu Emulator Guide or writing this 
 <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
   </div>
 <br>
-<p align="center">Hewe awe some of my <br>
-most used s-s-sociaw things >~<   </p>
+<p align="center"> 
+   <br>
+  <br>
+   <br>
+  
 <p align="center"><a href="https://twitter.com/OxGodlike" target="_blank"><img src="https://img.shields.io/badge/OxGodlike%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/oblivira.org" target="_blank"><img src="https://img.shields.io/badge/oblivira.org%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 </div>
 <br>
