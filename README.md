@@ -68,7 +68,7 @@
 <b>Loves:</b> anime, osu, rhythm games
 </li>
 <li>
-<b>Gender:</b> God/Godlike
+<b>Gender:</b> He/Him/Male
 </li>
  
 <li>
