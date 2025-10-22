@@ -29,7 +29,7 @@
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MnhqOTYyMjc3aXRiaGs5Z3Q4MHp0aHF1aTF4MmZhZTc1a2I5c3dwYiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/9TyuOufzHSpKo/giphy.gif"   align="right">
   </div>
 <li>
- <b>Name:</b> Agnibesh</li>
+ <b>Name:</b> Agnibesh Maity</li>
 <li>
 <b>Fursona:</b> Nyx the Shadow Lynx
 </li>
