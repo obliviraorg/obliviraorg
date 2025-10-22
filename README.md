@@ -26,7 +26,7 @@
 <div>
 <h2 align="center">  ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~  </h2>
   <div align="center">
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"   align="right">
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MnhqOTYyMjc3aXRiaGs5Z3Q4MHp0aHF1aTF4MmZhZTc1a2I5c3dwYiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/9TyuOufzHSpKo/giphy.gif"   align="right">
   </div>
 <li>
  <b>Name:</b> Agnibesh</li>
