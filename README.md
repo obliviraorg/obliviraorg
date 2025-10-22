@@ -26,11 +26,39 @@
 <div>
 <h2 align="center">  ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~  </h2>
   <div align="center">
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MnhqOTYyMjc3aXRiaGs5Z3Q4MHp0aHF1aTF4MmZhZTc1a2I5c3dwYiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/9TyuOufzHSpKo/giphy.gif"   align="right">
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJnbmw2dTVpaDhjaGo0NWE0cmY3NHJyYmM1aGZ0ZHNnZ2xoMXI4NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/F69cy9ZVNEBQF5Ejtw/giphy.gif"   align="right">
   </div>
-   <br>
-  <br>
-   <br>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 <li>
  <b>Name:</b> Agnibesh Maity</li>
 <li>
@@ -53,7 +81,7 @@
 <b>email:</b>  <a href="mailto:agnibesh006@gmail.com">agnibesh006@gmail.com</a>
 
 </li>
-<br><br><br>
+ 
 </div>
 <div>
 <h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
