@@ -122,7 +122,7 @@ Im also very good at writing Guides like my Yuzu Emulator Guide or writing this 
 <div>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
-<img src="https://i.imgur.com/tzYKRfd.gif">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHNnbXdhcnU3NGRhdXRid3ZsZDM1YTVlaWkwczdzcmFqb294MTI2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NOHzmFYti2A6c/giphy.gif">
 </div>
 <hr>
 </div>
