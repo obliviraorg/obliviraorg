@@ -27,7 +27,7 @@
 <h2 align="center">  ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~  </h2>
   <div align="center">
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJnbmw2dTVpaDhjaGo0NWE0cmY3NHJyYmM1aGZ0ZHNnZ2xoMXI4NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/F69cy9ZVNEBQF5Ejtw/giphy.gif"   align="right">
-  </div>
+</div>
     
 
 
