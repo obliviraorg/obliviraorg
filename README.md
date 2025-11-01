@@ -108,7 +108,7 @@ Im also very good at writing Guides like my Yuzu Emulator Guide or writing this 
 <br>
 <h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
   <div align="center">
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRzc2R5MDVtdHliMDRyNzF0dmdwd2s0aHZjZnljeTN3YmY4M2V5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10i8xVp7WmJrri/giphy.gif" align="right" width="373.5px" height="208.5px">
   </div>
 <br>
 <p align="center"> 
